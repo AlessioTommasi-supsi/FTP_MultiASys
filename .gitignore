@@ -1,0 +1,4 @@
+# Ignora gli ambienti virtuali
+venv/
+# Ignora i file di confdi python
+./FTP_MultiASys_python_enviroment
